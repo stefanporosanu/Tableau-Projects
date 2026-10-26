@@ -80,7 +80,7 @@ The dashboard includes:
 The combination of bar charts, a map, treemap and comparative visualisations provides a clear overview of employment changes from several perspectives.
 
 <p align="center">
-  <img src="employment-dashboard.png" width="900" alt="GB Employment Data Tableau dashboard">
+  <img src="EMSI Job Change (GB Employment).png" width="900" alt="GB Employment Data Tableau dashboard">
 </p>
 
 ### 🔗 Tableau Public
@@ -105,7 +105,7 @@ The analysis explores:
 Interactive filters allow different countries, continents and demographic categories to be explored.
 
 <p align="center">
-  <img src="global-health-dashboard.png" width="900" alt="Global Health Insights Tableau dashboard">
+  <img src="Global Health Dashboard.png" width="900" alt="Global Health Insights Tableau dashboard">
 </p>
 
 ---
@@ -161,7 +161,7 @@ The analysis included:
 The project demonstrates how visualisation can be used to explore behavioural and entertainment data and identify patterns that may not be obvious from the raw dataset alone.
 
 <p align="center">
-  <img src="spotify-dashboard.png" width="900" alt="Spotify Findings Tableau dashboard">
+  <img src="Spotify Dashboard.png" width="900" alt="Spotify Findings Tableau dashboard">
 </p>
 
 ---
